@@ -1,5 +1,8 @@
 {
   "name": "Solstice",
-  "description": "SLX",
-  "image": "https://raw.githubusercontent.com/Solstice-Labs-Official/slx-metadata/refs/heads/main/slx.png"
+  "symbol": "SLX"
+  "description": "SLX is the access and utility token of the Solstice ecosystem",
+  "image": "https://raw.githubusercontent.com/Solstice-Labs-Official/slx-metadata/refs/heads/main/slx.png",
+  "twitter": "https://twitter.com/solsticefi",
+  "website": "https://solstice.finance"
 }
